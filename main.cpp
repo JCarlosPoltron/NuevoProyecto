@@ -12,6 +12,7 @@ float** generaTranspuesta(float** X, int m, int n);
 float** sumaMatrices(float** X, int m1, int n1,float** Y, int m2, int n2);
 float** restaMatrices(float** X, int m1, int n1,float** Y, int m2, int n2);
 void nuevaFuncionDePrueba();
+void funcionX();
 
 int main(void){
     int m1,n1,m2,n2;
