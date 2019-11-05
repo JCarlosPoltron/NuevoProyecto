@@ -14,6 +14,7 @@ float** restaMatrices(float** X, int m1, int n1,float** Y, int m2, int n2);
 void nuevaFuncionDePrueba();
 void funcionX();
 void funcionY();
+void funcionz();
 
 int main(void){
     int m1,n1,m2,n2;
